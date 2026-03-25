@@ -7,7 +7,7 @@ A customizable AI assistant platform that lets users create, manage, and interac
 ## Features
 
 -  Persona-Based Conversations  
-  Choose from preset personas (e.g., Socratic Tutor, Debugging Specialist, First Principles Thinker) or create your own custom assistants.
+  Choose from preset personas (e.g., Socrates, Research Translator, Motivational Coach) or create your own custom assistants.
 
 -  Dynamic Persona Management  
   Add, delete, and switch between custom personas in real time — no code changes required.
@@ -25,11 +25,11 @@ A customizable AI assistant platform that lets users create, manage, and interac
 
 ##  Example Personas
 
-- Socratic Tutor → Guides thinking through questions  
-- Debugging Specialist → Finds and fixes bugs efficiently  
-- First Principles Thinker → Breaks problems down to fundamentals  
-- Clinical Reasoning Coach → Walks through diagnostic logic step-by-step  
-- No-BS Advisor → Direct, high-signal advice  
+- General Assistant → Helpful, intelligent, and conversational AI assistant  
+- Socrates → Guides thinking through questions
+- Research Translator → Simplifies complex research into clear, digestible explanations  
+- Motivational Coach → An encouraging assistant who helps the user stay disciplined, focused, and motivated
+- Strategic Advisor → A high-level strategy consultant that focuses on clarity, priorities, and outcomes  
 
 ---
 
