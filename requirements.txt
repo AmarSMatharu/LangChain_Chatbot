@@ -7,5 +7,5 @@ langchain-groq
 streamlit
 python-dotenv
 sentence-transformers
-chromadb
+chromadb==0.4.24
 langchain-huggingface
