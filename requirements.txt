@@ -5,5 +5,7 @@ langchain-community
 langchain-openai
 langchain-groq
 streamlit
-dotenv
+python-dotenv
 sentence-transformers
+chromadb
+langchain-huggingface
